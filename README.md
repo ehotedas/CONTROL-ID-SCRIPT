@@ -11,3 +11,10 @@
 <h1 align=center> LANGUAGE </h1>
 
 <p align=center> <img src="https://raw.githubusercontent.com/ehotedas/CONTROL-ID-SCRIPT/main/icons/icon.png"> </p>
+
+<br>
+
+<h1 align=center> LIBS </h1>
+
+<p align=center> <b>SMPTLIB</b> </p>
+<p align=center> <b>JSON</b> </p>
