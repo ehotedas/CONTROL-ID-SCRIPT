@@ -69,7 +69,7 @@ subject = f'Confirmation of Leke time clock reading - {now.strftime("%d/%m/%Y - 
 body = "Dear all,\n\nI would like to confirm that the reading of the Leke time clock was successfully carried out by the Information Technology department.\n\nAll information has been properly recorded in the system and is ready to be used by the Human Resources department.\n\nIf you have any questions or need further information, please do not hesitate to contact us.\n\nBest regards,\n\n[IT]".encode('utf-8')
 
 # SMTP server and port
-smtp_server = '192.168.3.35'
+smtp_server = '' ##ip here
 smtp_port = 25
 
 # Creating the MIMEMultipart object
